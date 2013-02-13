@@ -1,3 +1,6 @@
 [submodule "impress"]
 	path = impress
 	url = https://github.com/bartaz/impress.js.git
+[submodule "highlighter"]
+	path = highlighter
+	url = https://github.com/alexgorbatchev/SyntaxHighlighter.git
